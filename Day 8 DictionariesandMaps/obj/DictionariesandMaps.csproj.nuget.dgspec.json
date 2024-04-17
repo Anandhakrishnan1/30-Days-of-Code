@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\Learn\\Challenges\\30-Days-of-Code\\Day 7 Arrays\\Arrays.csproj": {}
+    "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\DictionariesandMaps.csproj": {}
   },
   "projects": {
-    "C:\\Training\\Learn\\Challenges\\30-Days-of-Code\\Day 7 Arrays\\Arrays.csproj": {
+    "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\DictionariesandMaps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\Learn\\Challenges\\30-Days-of-Code\\Day 7 Arrays\\Arrays.csproj",
-        "projectName": "Arrays",
-        "projectPath": "C:\\Training\\Learn\\Challenges\\30-Days-of-Code\\Day 7 Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\DictionariesandMaps.csproj",
+        "projectName": "DictionariesandMaps",
+        "projectPath": "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\DictionariesandMaps.csproj",
         "packagesPath": "C:\\Users\\anandhakrishnan.al\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\Learn\\Challenges\\30-Days-of-Code\\Day 7 Arrays\\obj\\",
+        "outputPath": "C:\\Training\\Learn\\Angular\\DictionariesandMaps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anandhakrishnan.al\\AppData\\Roaming\\NuGet\\NuGet.Config",
